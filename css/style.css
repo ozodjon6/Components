@@ -602,6 +602,11 @@ ul, li {
 }
 
 /* --- */
+.btn_disabled {
+  background-color: #C7CED7;
+  pointer-events: none;
+}
+
 .btn__icon-blue path {
   fill: #175599;
 }
