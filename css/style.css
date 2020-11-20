@@ -518,6 +518,7 @@ ul, li {
   background-color: #113C6B;
 }
 
+/* --- */
 .btn_main-2 {
   color: #fff;
   background-color: #D12E56;
@@ -531,6 +532,7 @@ ul, li {
   background-color: #E27690;
 }
 
+/* --- */
 .btn_sec-1 {
   background: rgba(23, 85, 153, 0.15);
   color: #175599;
@@ -552,9 +554,14 @@ ul, li {
   fill: #fff;
 }
 
+/* --- */
 .btn_sec-2 {
   background-color: #FFF;
   transition: all 0.3s;
+}
+
+.btn_sec-2 .btn__text {
+  color: #175599;
 }
 
 .btn_sec-2:focus {
@@ -573,6 +580,7 @@ ul, li {
   fill: #fff;
 }
 
+/* --- */
 .btn_sec-3 {
   background-color: rgba(209, 46, 86, 0.2);
 }
@@ -593,6 +601,7 @@ ul, li {
   fill: #fff;
 }
 
+/* --- */
 .btn__icon-blue path {
   fill: #175599;
 }
@@ -605,6 +614,7 @@ ul, li {
   color: #D12E56;
 }
 
+/* btn_l */
 .btn_l {
   height: 64px;
   padding-left: 24px;
